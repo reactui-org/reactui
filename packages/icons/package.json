@@ -1,0 +1,20 @@
+{
+  "name": "@reactui/icons",
+  "version": "1.0.0",
+  "description": "A modern React UI icons components",
+  "license": "MIT",
+
+  "main": "./reactui/icons/index.js",
+  "types": "./reactui/icons/index.d.ts",
+  "scripts": {
+    "build": "tsc && swc ./src -d ./reactui/icons/"
+  },
+  "keywords": [],
+  "author": "",
+  "devDependencies": {
+    "@swc/cli": "^0.5.1",
+    "@swc/core": "^1.9.3",
+    "@types/react": "^18.3.12",
+    "typescript": "^5.7.2"
+  }
+}

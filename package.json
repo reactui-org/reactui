@@ -1,0 +1,14 @@
+{
+  "name": "reactui-org",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "react",
+    "reactui"
+  ],
+  "author": "Marc Fernandez <marc.fernandezo@hotmail.com>",
+  "license": "MIT"
+}
