@@ -1,2 +1,2 @@
-import { Input } from "@/components/input";
-import { InputOTP } from "@/components/input-otp";
+export { Input } from "@/components/input";
+export { InputOTP } from "@/components/input-otp";
